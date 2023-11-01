@@ -7,3 +7,5 @@ written in
 more than just one line 
 also known as multiline.
 """
+x=5
+print(x)
