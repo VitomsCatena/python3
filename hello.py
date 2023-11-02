@@ -66,6 +66,7 @@ print(type(I))
 
 #to convert from one type to the other:
 
-v= 2
-i= 3.3
-c=5j
+v= 2 #int
+i= 3.3 #float
+c=5e3 #float
+t=7j #Complex
