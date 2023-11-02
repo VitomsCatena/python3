@@ -37,7 +37,11 @@ print(type(x))
 
 #Python numbers:
 #int:-
-
+"""A whole number"""
 #float:-
-
+"""A positive Number positive or negative with a decimal 
+Float can also be scientific numbers with an "e" 
+to indicate the power of 10."""
 #complex:-
+"""Complex numbers are written with a
+ "j" as the imaginary part:"""
