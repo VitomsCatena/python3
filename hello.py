@@ -34,3 +34,5 @@ myfunc()
 #Data type :
 x = 5
 print(type(x))
+
+#Python numbers:
