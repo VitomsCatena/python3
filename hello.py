@@ -50,6 +50,12 @@ print(type(O))
 """A positive Number positive or negative with a decimal 
 Float can also be scientific numbers with an "e" 
 to indicate the power of 10."""
+V = 5.34
+print(type(V))
+
+#one with "e";
+V = 5.34e6
+print(type(V))
 
 #complex:-
 """Complex numbers are written with a
