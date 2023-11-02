@@ -63,3 +63,8 @@ print(type(V))
 
 I =5j
 print(type(I))
+
+#to convert from one type to the other:
+v= 2
+i= 3
+c=5
