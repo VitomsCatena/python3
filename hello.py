@@ -60,3 +60,6 @@ print(type(V))
 #complex:-
 """Complex numbers are written with a
  "j" as the imaginary part:"""
+
+I =5j
+print(type(I))
