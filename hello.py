@@ -74,3 +74,7 @@ t=7j #Complex
 #convert float to int:
 
 a= int(i)
+
+#convert complex to int:
+
+b= int(t)
