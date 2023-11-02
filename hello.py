@@ -5,7 +5,7 @@ print('Hello World')
 This is a comment
 written in
 more than just one line 
-also known as multiline.
+also known as multi-line.
 """
 x=5
 print(x)
@@ -81,3 +81,4 @@ b= int(t)
 
 print(a)
 print(b)
+
