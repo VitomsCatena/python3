@@ -78,3 +78,6 @@ a= int(i)
 #convert complex to int:
 
 b= int(t)
+
+print(a)
+print(b)
