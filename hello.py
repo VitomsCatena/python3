@@ -70,3 +70,7 @@ v= 2 #int
 i= 3.3 #float
 c=5e3 #float
 t=7j #Complex
+
+#convert float to int:
+
+a= int(i)
