@@ -38,11 +38,14 @@ print(type(x))
 #Python numbers:
 #int:-
 """A whole number"""
+
 V = 5
 I = 14
 O = 2
 print(type(V))
 print(type(I))
+print(type(O))
+
 #float:-
 """A positive Number positive or negative with a decimal 
 Float can also be scientific numbers with an "e" 
