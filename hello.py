@@ -36,3 +36,6 @@ x = 5
 print(type(x))
 
 #Python numbers:
+#int:-
+#float:-
+#complex:-
