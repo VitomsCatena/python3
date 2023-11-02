@@ -17,3 +17,6 @@ print(c)
 #change from one type to the other:
 
 A= int(c) # will change complex to interger.
+
+
+print(type(A))
