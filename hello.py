@@ -15,3 +15,10 @@ cel = 0
 fahr = float(temp)
 cel = (fahr - 32.0) * 5.0 / 9.0
 print(cel)
+
+#You can assign multiple values to multiple variables:
+
+x , y , z = "Banana" , "Mangoes" , "Avocadoes"
+print(x)
+print(y)
+print(z)
