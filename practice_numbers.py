@@ -31,3 +31,6 @@ print(random.randrange(1 , 200))
 x = int(1)   # x will be 1
 y = int(4.8) # y will be 4
 z = int("7") # z will be 7
+#for float:
+x = float(3) # x will be 3.0
+y = float ("23") # will be 23
