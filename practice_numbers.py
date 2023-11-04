@@ -20,3 +20,8 @@ A= int(c) # will change complex to interger.
 
 
 print(type(A))
+
+#To print random numbers
+import random
+
+print(random.randrange(1 , 200))
