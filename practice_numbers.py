@@ -36,4 +36,8 @@ z = int("7") # z will be 7
 
 x = float(3) # x will be 3.0
 y = float ("23") # will be 23
+
 #for  strings
+
+x = str('23') #will be '23'
+y = str(2.9) # will be '2.9'
