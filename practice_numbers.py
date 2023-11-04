@@ -25,3 +25,5 @@ print(type(A))
 import random
 
 print(random.randrange(1 , 200))
+
+#python casting
