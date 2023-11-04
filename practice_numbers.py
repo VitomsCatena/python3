@@ -27,3 +27,7 @@ import random
 print(random.randrange(1 , 200))
 
 #python casting
+
+x = int(1)   # x will be 1
+y = int(4.8) # y will be 4
+z = int("7") # z will be 7
