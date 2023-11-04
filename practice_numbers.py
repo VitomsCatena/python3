@@ -46,3 +46,6 @@ y = str(2.9) # will be '2.9'
 
 a = "I am ok"
 print(len(a))
+#The upper() method returns the string in upper case:
+a = "Hello, World!"
+print(a.upper())
