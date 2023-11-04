@@ -41,3 +41,8 @@ y = float ("23") # will be 23
 
 x = str('23') #will be '23'
 y = str(2.9) # will be '2.9'
+
+#to get string lenght:
+
+a = "I am ok"
+print(len(a))
