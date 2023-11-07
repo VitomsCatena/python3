@@ -2,9 +2,9 @@
 
 I will be documenting my entire journey here
 
-PYTHON
+# PYTHON
 Introduction 
--what is python?
+- what is python?
 -what can python do?
 --why python
 -python syntax compare to other programming languages.
