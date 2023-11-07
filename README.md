@@ -5,8 +5,8 @@ I will be documenting my entire journey here
 # PYTHON
 Introduction 
 - what is python?
--what can python do?
---why python
+- what can python do?
+- why python
 -python syntax compare to other programming languages.
 -python install and environmental setup.
 -python command line.
