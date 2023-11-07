@@ -3,7 +3,8 @@
 I will be documenting my entire journey here
 
 # PYTHON
-Introduction 
+Introduction:
+
 - what is python?
 - what can python do?
 - why python
