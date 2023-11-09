@@ -11,8 +11,8 @@ Introduction:
 - python syntax compare to other programming languages.
 - python install and environmental setup.
 - python command line.
-- python syntax
-- execute python syntax 
-- python indentation 
-- python variables 
+- python syntax.
+- execute python syntax .
+- python indentation .
+- python variables .
 - python comments.
