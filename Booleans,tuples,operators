@@ -8,3 +8,8 @@ print(myFunction())
 
 """operators"""
 print(10 + 5) #adds
+
+
+y=6
+y /= 5
+print (y)  #assigns value
