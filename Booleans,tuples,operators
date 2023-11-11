@@ -7,3 +7,4 @@ return True
 print(myFunction())
 
 """operators"""
+print(10 + 5) #adds
