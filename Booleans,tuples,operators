@@ -1,1 +1,3 @@
 bool() #enables one to evaluate a value as TRUE or FALSE
+
+#functions that return boolean:
