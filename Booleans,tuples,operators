@@ -15,3 +15,4 @@ y /= 5
 print (y)  #assigns value
 
 # TUPLES
+ #are used to store multiple data:
