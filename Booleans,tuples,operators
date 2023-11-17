@@ -19,4 +19,8 @@ print (y)  #assigns value
 
 nameTuple =("Albert", "Olukwo", "VITOMS")
 Number_tuple = ( 1 , 3 , 4 ,7)
-Boolean_tuple = ( True, False,
+Boolean_tuple = ( True, False, True)
+
+print(nameTuple)
+print(Number_tuple)
+print(Boolean_tuple)
