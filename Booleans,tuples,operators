@@ -17,8 +17,8 @@ print (y)  #assigns value
 # TUPLES
  #are used to store multiple data:
 
-nameTuple =("Albert", "Olukwo", "VITOMS")
-Number_tuple = ( 1 , 3 , 4 ,7)
+nameTuple =("Albert", "Olukwo", "VITOMS") #strings tuple
+Number_tuple = ( 1 , 3 , 4 ,7) #numbers tuple
 Boolean_tuple = ( True, False, True)
 
 print(nameTuple)
