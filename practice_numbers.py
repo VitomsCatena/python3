@@ -49,3 +49,7 @@ print(len(a))
 #The upper() method returns the string in upper case:
 a = "Hello, World!"
 print(a.upper())
+
+birth_year = input ("Enter your birth year:)
+int(birth_year)
+age = 2020#current year - int(birth_year)
