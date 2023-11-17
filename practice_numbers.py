@@ -52,4 +52,7 @@ print(a.upper())
 
 birth_year = input ("Enter your birth year:)
 int(birth_year)
-age = 2020#current year - int(birth_year)
+age = 2020#current year - int(birth_year) 
+"""
+for instance if the input is 2002 the output
+"""
