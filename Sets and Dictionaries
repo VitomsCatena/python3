@@ -20,7 +20,7 @@ print(thisset)
 #discard()
 thisset = {"apple", "banana", "cherry"}
 
-thisset.discard("banana")
+thisset.discard("banana") #banana will be discarded
 
 print(thisset)
 
