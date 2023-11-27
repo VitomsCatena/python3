@@ -10,3 +10,4 @@ add()
 #to remove set item:
 
 remove()
+clear()
