@@ -6,7 +6,7 @@ print(SetType)
 
 #to add an Item we use
 add()
-
+----------------------------------------------------------------------------
 #to remove set item:
 
 #remove()
