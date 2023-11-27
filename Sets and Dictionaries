@@ -8,3 +8,5 @@ print(SetType)
 add()
 
 #to remove set item:
+
+remove()
