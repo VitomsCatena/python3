@@ -9,7 +9,15 @@ add()
 
 #to remove set item:
 
-remove()
+#remove()
+
+    thisset = {"apple", "banana", "cherry"}
+
+thisset.remove("banana")
+
+print(thisset)
+
+
 discard()
 clear()
 del()
