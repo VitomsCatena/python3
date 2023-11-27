@@ -26,7 +26,8 @@ thisset.discard("banana") #banana will be discarded
 print(thisset)
 
 clear()
-del()
+
+#del()
 thisset = {"apple", "banana", "cherry"}
 
 del thisset
