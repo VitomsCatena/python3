@@ -13,7 +13,7 @@ add()
 
     thisset = {"apple", "banana", "cherry"}
 
-thisset.remove("banana")
+thisset.remove("banana") #this will remove banana from the list
 
 print(thisset)
 
