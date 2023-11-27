@@ -11,3 +11,4 @@ add()
 
 remove()
 clear()
+del()
