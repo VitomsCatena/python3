@@ -17,8 +17,8 @@ thisset.remove("banana") #this will remove banana from the list
 
 print(thisset)
 
+#discard()
 
-discard()
 clear()
 del()
 pop()
