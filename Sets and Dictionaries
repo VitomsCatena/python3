@@ -26,6 +26,11 @@ thisset.discard("banana") #banana will be discarded
 print(thisset)
 
 clear()
+thisset = {"apple", "banana", "cherry"}
+
+thisset.clear()
+
+print(thisset)
 
 #del()
 thisset = {"apple", "banana", "cherry"}
