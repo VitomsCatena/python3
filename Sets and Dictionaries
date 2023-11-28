@@ -1,4 +1,5 @@
 #SET
+----------------------------------------------------------------------------------------------------------------------------------------------------
 #Is a collection of unordered, unchangable and unindexed variables. opposed to tuples.
 
 SetType= {"food" ,"soda" ,"water"}
