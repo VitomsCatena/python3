@@ -16,12 +16,18 @@ I will be documenting my entire journey here
    2. ***Machine learning***
    3. ***Automation***
    4. ***system Scripting***
+      
 - why python?
+  
+  It is easy to learn  and understand.
+  
 - python syntax compare to other programming languages.
 - python install and environmental setup.
   
     ***For Mac and window users download Pycharm from [Python.org](https://www.python.org/)***
-  *** Ubuntu users [jetbrains.com](https://www.jetbrains.com/pycharm/)***
+  
+    *** Ubuntu users [jetbrains.com](https://www.jetbrains.com/pycharm/)***
+  
 - python command line.
 - python syntax.
 - execute python syntax.
