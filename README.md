@@ -6,6 +6,7 @@ I will be documenting my entire journey here
 Introduction:
 
 - what is python?
+      ***Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.***
 - what can python do?
 - why python?
 - python syntax compare to other programming languages.
@@ -16,3 +17,4 @@ Introduction:
 - python indentation.
 - python variables .
 - python comments.
+
