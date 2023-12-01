@@ -7,6 +7,7 @@ Introduction:
 
 - what is python?
       ***Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.***
+      ***It was created by Guido Von Rossum***
 - what can python do?
    1. ***Web development***
    2. ***Machine learning***
