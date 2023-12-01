@@ -45,3 +45,6 @@ I will be documenting my entire journey here:
   ***For single line we use (#comment)***
   #this is a single line comment.
 
+# CREDITS:
+-Notes and practice exercise:
+ [W3schools](https://profile.w3schools.com/)
