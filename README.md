@@ -12,7 +12,7 @@ Introduction:
    1. ***Web development***
    2. ***Machine learning***
    3. ***Automation***
-   4. 
+   4. ***system Scripting***
 - why python?
 - python syntax compare to other programming languages.
 - python install and environmental setup.
