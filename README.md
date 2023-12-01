@@ -24,4 +24,6 @@ Introduction:
 - python comments.
   
   ***For multiple lines we use ("""comment""")***
+  ***For single line we use (#comment)***
+  
 
