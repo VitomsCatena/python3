@@ -11,6 +11,8 @@ Introduction:
 - what can python do?
    1. ***Web development***
    2. ***Machine learning***
+   3. ***Automation***
+   4. 
 - why python?
 - python syntax compare to other programming languages.
 - python install and environmental setup.
