@@ -21,6 +21,7 @@ I will be documenting my entire journey here
 - python install and environmental setup.
   
     ***For Mac and window users download Pycharm from [Python.org](https://www.python.org/)***
+  *** Ubuntu users [jetbrains.com](https://www.jetbrains.com/pycharm/)***
 - python command line.
 - python syntax.
 - execute python syntax.
