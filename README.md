@@ -36,7 +36,11 @@ I will be documenting my entire journey here
 - python comments.
   
   ***For multiple lines we use ("""comment""")***
+    """This is a
+     multi-line comment
+   example.
+  """
   
   ***For single line we use (#comment)***
-  
+  #this is a single line comment.
 
