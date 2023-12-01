@@ -16,6 +16,7 @@ Introduction:
 - why python?
 - python syntax compare to other programming languages.
 - python install and environmental setup.
+    ***For Mac and window users download Pycharm from [Python.org](https://www.python.org/)***
 - python command line.
 - python syntax.
 - execute python syntax.
