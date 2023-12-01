@@ -8,6 +8,8 @@ Introduction:
 - what is python?
       ***Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.***
 - what can python do?
+   1. ***Web development***
+   2. ***Machine learning***
 - why python?
 - python syntax compare to other programming languages.
 - python install and environmental setup.
