@@ -6,6 +6,6 @@ second = input("Second: ")
 sum = int(first) + int(second)
 print(sum)
 
-# strings
+# strings.
 Story = "My coding Journey."
 print(Story.upper())
