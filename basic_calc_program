@@ -7,3 +7,5 @@ sum = int(first) + int(second)
 print(sum)
 
 # strings
+Story = "My coding Journey."
+print(Story.upper())
