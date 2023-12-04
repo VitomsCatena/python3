@@ -3,5 +3,5 @@ Second: 20
 
 first = input("First: ")
 second = input("Second: ")
-sum = first + second
+sum = int(first) + int(second)
 print(sum)
