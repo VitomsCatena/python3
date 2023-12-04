@@ -2,3 +2,4 @@ First: 10.23
 Second: 20
 
 first = input("First: ")
+second = input("Second: ")
