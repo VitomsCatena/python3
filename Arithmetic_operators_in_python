@@ -1,5 +1,7 @@
 # Greater than
 >
+eg:
+X = 3 < 2
 ---------------------------------------------
 #Greater than or equal to
 >=
