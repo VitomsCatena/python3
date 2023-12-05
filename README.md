@@ -13,7 +13,7 @@ I will be documenting my entire journey here:
   
 - what can python do?
   
-   1. ***Web development***
+   1. ***Web development.***
    2. ***Machine learning***
    3. ***Automation***
    4. ***system Scripting***
