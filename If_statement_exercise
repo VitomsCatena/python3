@@ -1,1 +1,3 @@
-
+weight = input("put your weight human: ")
+unit  = input("choose unit Kg or L: ")
+print(weight +  unit)
