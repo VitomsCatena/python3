@@ -15,3 +15,5 @@ temperature = 30
 
 if temperature > 30:
     print("The weather is hot")
+else:
+    print("The weather is warm")
