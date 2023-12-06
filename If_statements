@@ -8,3 +8,4 @@ else:
     print("The weather is warm")
 
 #example 2:
+name = input("Type your name please:")
