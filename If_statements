@@ -7,4 +7,4 @@ if temperature > 30:
 else:
     print("The weather is warm")
 
-#example 2
+#example 2:
