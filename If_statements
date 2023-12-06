@@ -12,3 +12,6 @@ else:
 name = input("Type your name please:")
 print( "Hello" + name)
 temperature = 30
+
+if temperature > 30:
+    print("The weather is hot")
