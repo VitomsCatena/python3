@@ -7,3 +7,4 @@ unit =  input ("(k)g or (l)bs: ")
 
 if unit == "k":
 convert = weight / 0.45
+print( "weigh in Lbs:" + convert)
