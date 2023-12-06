@@ -3,4 +3,6 @@ unit  = input("choose unit Kg or L: ")
 print(weight +  unit)
 
 weight = int(input( weight: "))
-unit =  
+unit =  input ("(k)g or (l)bs: ")
+
+if unit ==
