@@ -5,4 +5,4 @@ print(weight +  unit)
 weight = int(input( weight: "))
 unit =  input ("(k)g or (l)bs: ")
 
-if unit ==
+if unit == "k":
