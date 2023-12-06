@@ -6,3 +6,4 @@ weight = int(input( weight: "))
 unit =  input ("(k)g or (l)bs: ")
 
 if unit == "k":
+convert = weight / 0.45
