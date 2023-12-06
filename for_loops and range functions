@@ -5,4 +5,4 @@ print(item)
 
 #the range function
 numbers = range(5)
-for number in numbers
+for number in numbers:
