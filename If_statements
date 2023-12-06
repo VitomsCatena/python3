@@ -10,3 +10,5 @@ else:
 #example 2:
 
 name = input("Type your name please:")
+print( "Hello" + name)
+temperature = 30
