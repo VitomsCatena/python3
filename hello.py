@@ -53,7 +53,6 @@ print(type(V))
 #one with "e";
 V = 5.34e6
 print(type(V))
-
 #complex:-
 """Complex numbers are written with a
  "j" as the imaginary part:"""
