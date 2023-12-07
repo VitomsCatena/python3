@@ -6,7 +6,6 @@ return True
 
 print(myFunction())
 
-
 #OPERATORS
 print(10 + 5) #adds
 
