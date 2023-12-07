@@ -21,7 +21,6 @@ x , y , z = "Banana" , "Mangoes" , "Avocadoes"
 print(x)
 print(y)
 print(z)
-
 #Global variables:can be used by everyone:
 x = "awesome"
 
