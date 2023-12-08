@@ -6,6 +6,6 @@ guess = int(input("Guess: "))
     guess_count += 1
     if guess == secret_number:
         print("you are awesome!")
-break
+        break
 else:
  Print("You failed")
