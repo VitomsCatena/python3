@@ -5,3 +5,6 @@ matrix = [
 ]
 matrix[0][1]
 print(matrix[0])
+for row in matrix:
+    for item in row:
+        print(item)
