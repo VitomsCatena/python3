@@ -1,3 +1,5 @@
 x = 3.89
 print(round(x))
 #this function rounds off any float.
+
+abs function = absolute
