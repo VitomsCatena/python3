@@ -1,1 +1,2 @@
 intro = ("I am Vitoms Catena")
+print(len(intro))
