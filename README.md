@@ -48,6 +48,7 @@ I will be documenting my entire journey here:
 # CREDITS:
 - Notes and practice exercise:
  [W3schools](https://profile.w3schools.com/)
--[ALX](https://www.alxafrica.com/)
+- [ALX](https://www.alxafrica.com/)
+- [Saylor-Academy](https://learn.saylor.org/)
 - videos:
  [Code with Mosh](https://youtu.be/kqtD5dpn9C8?feature=shared)
