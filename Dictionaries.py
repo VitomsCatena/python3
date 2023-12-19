@@ -4,3 +4,5 @@ client{
 "age": 23,
 "is sad": true
 }
+
+print(client["name"])
