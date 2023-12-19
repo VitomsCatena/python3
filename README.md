@@ -57,3 +57,6 @@ I will be documenting my entire journey here:
 - videos:
   
  [Code with Mosh](https://youtu.be/kqtD5dpn9C8?feature=shared)
+
+ # CERTIFICATES:
+ ![ALX_CERT](image URL)
