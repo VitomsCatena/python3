@@ -59,4 +59,4 @@ I will be documenting my entire journey here:
  [Code with Mosh](https://youtu.be/kqtD5dpn9C8?feature=shared)
 
  # CERTIFICATES:
- ![ALX_CERT](image URL)
+ ![ALX_CERT](Introduction-to-swe-0623-certificate-victor-onyango.png)
