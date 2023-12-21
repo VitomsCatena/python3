@@ -5,6 +5,7 @@ emojis = {
 ":)": "#emojihere"
   
 }
+output=""
 for words in words:
   emojis.get(words ,word)
   
