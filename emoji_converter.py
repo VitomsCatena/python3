@@ -1,10 +1,10 @@
 # this is done using dictionaries
-message = input">"
-words = message.split('')
+message = input(">")
+words = message.split(',')
 emojis = {
-":)": "😊"
+    ":)": "😊"
 }
-output=""
+output = ""
 for words in words:
-output +=  emojis.get(words ,word) + ""
-  print(output)
+    output += emojis.get(words, words) + ""
+print(output)
