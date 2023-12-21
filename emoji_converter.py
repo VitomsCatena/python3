@@ -5,3 +5,5 @@ emojis = {
 ":)": "#emojihere"
   
 }
+for words in words:
+  
