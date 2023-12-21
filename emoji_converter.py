@@ -3,7 +3,6 @@ message = input">"
 words = message.split('')
 emojis = {
 ":)": "#emojihere"
-  
 }
 output=""
 for words in words:
