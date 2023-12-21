@@ -6,4 +6,5 @@ emojis = {
   
 }
 for words in words:
+  emojis.get(words ,word)
   
