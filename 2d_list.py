@@ -9,4 +9,4 @@ print(matrix[0]) #this will print items in the first row.
 for row in matrix:
     for item in row:
         print(item)
-#thius will print all the items in the list.
+#this will print all the items in the list.
