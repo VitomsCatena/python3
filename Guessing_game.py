@@ -6,8 +6,8 @@ while guess_count < guess_limit:
 guess_count += 1
 if guess == secret_number:
         print("you are awesome!")
-        break
+     break
 else:
  Print("You failed")
 
-#This is a guessing game if the answer is wrong the else code will ne executed.
+#This is a guessing game if the answer is wrong the else code will ne executed#
