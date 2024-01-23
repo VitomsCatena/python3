@@ -8,6 +8,6 @@ if guess == secret_number:
         print("you are awesome!")
      break
 else:
- Print("You failed")
+  Print("You failed")
 
 #This is a guessing game if the answer is wrong the else code will ne executed#
