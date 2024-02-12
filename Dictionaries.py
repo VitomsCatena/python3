@@ -1,8 +1,10 @@
 # currley {} are used to define a dictionary
-client{
+
+client {
+    (
 "name":"teddy smith",
 "age": 23,
-"is sad": true
+"is sad": true;)
 }
 
 print(client["name"])
