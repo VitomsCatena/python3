@@ -50,7 +50,7 @@ print(len(a))
 a = "Hello, World!"
 print(a.upper())
 
-birth_year = input ("Enter your birth year:)
+birth_year = input ("Enter your birth year:")
 int(birth_year)
 age = 2023#current year - int(birth_year) 
 
