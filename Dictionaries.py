@@ -1,4 +1,4 @@
-currley {} are used to define a dictionary
+# currley {} are used to define a dictionary
 client{
 "name":"teddy smith",
 "age": 23,
